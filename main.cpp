@@ -1,3 +1,4 @@
+//Author: Michelle Gomez
 #include <iostream>
 #include <string>
 #include "student.h"
